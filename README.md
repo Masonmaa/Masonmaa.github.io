@@ -1,2 +1,2 @@
-# Masonmaa.github.io
-My personal page
+# Lil'Log
+Lilian's Blog
